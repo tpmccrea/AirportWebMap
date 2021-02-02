@@ -20,4 +20,6 @@ Contains:
 
 This repository contains the necessary files to display an interactive web map of airports in the US, to display the count by state as a chororpleth map, and to display whether or not an airport has an air traffic control tower present. 
 
+The web map can be viewed at: http://tpmccrea.github.io/AirportWebMap/Index.html
+
 ![Map Image](img/AirportWebMap.png)
